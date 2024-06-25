@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.557 sec <<< FAILURE! - in TestSuite
+runScenario(RunnerPackage.TestRunner)  Time elapsed: 8.078 sec  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [[[ChromeDriver: chrome on windows (80d6f86d19f62a97373e35e4c8b2a403)] -> css selector: .alert-danger]]
+

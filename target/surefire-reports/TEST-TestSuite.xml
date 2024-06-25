@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="11.557" tests="2" errors="0" skipped="0" failures="1">
+  <properties>
+    <property name="jansi.mode" value="force"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="20.0.1+9-29"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-20\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\divya\eclipse-workspace-bkup\e-commerceplatform"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Users\divya\eclipse-workspace-bkup\e-commerceplatform"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="20.0.1+9-29"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\divya\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="classworlds.conf" value="C:\Users\divya\eclipse-workspace-bkup\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1837052486372565535.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-20\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jdk-20/bin/server;C:/Program Files/Java/jdk-20/bin;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\divya;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\Users\divya\apache-maven-3.9.5-bin\bin;C:\Users\divya\apache-maven-3.9.5-bin\;C:\Users\divya\apache-maven-3.9.5-bin\\bin;C:\Users\divya\allure-2.24.1\bin;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Java\jdk-20\lib;C:\Users\divya\AppData\Local\Android\Sdk\platform-tools;C:\Users\divya\AppData\Local\Android\Sdk\tools;C:\Users\divya\AppData\Local\Android\Sdk\build-tools;C:\Users\divya\AppData\Local\Android\Sdk\tools\bin;C:\Users\divya\AppData\Local\Android\Sdk\tools;C:\Program Files\nodejs\node_modules\npm\bin;C:\Users\divya\;C:\ProgramData\chocolatey\bin;C:\Users\divya\AppData\Local\Microsoft\WindowsApps;C:\Users\divya\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\divya\js\coding_files\node_modules;C:\Users\divya\AppData\Roaming\npm;C:\Program Files\JetBrains\IntelliJ IDEA 2024.1.4\bin;;C:\Users\divya\OneDrive\Desktop;;."/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="64.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\divya"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="20"/>
+    <property name="user.name" value="divya"/>
+    <property name="java.class.path" value="C:\Users\divya\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.8.701.20230209-1606\jars\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="20"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B -Dstyle.color=always install"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-20"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="20.0.1"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Users\divya\eclipse-workspace-bkup\e-commerceplatform\EMBEDDED"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-04-18"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="m2e.build.project.data.socket.port" value="59636"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="runScenario" classname="RunnerPackage.TestRunner" time="8.078">
+    <failure message="expected [true] but found [[[ChromeDriver: chrome on windows (80d6f86d19f62a97373e35e4c8b2a403)] -&gt; css selector: .alert-danger]]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [[[ChromeDriver: chrome on windows (80d6f86d19f62a97373e35e4c8b2a403)] -> css selector: .alert-danger]]
+</failure>
+    <system-out><![CDATA[...
+... TestNG 7.10.2 by Cédric Beust (cedric@beust.com)
+...
+
+
+Scenario: Successful login with valid credentials    # src/test/resources/features/loginopencart.feature:11
+
+Scenario Outline: Unsuccessful login with invalid or empty credentials                                  # src/test/resources/features/loginopencart.feature:24
+  Given I am on the Opencart login                   # stepdefinitions.loginopencartstep.i_am_on_the_opencart_login()
+  Given I am on the Opencart login                                                                      # stepdefinitions.loginopencartstep.i_am_on_the_opencart_login()
+  Given I have entered a valid username and password # stepdefinitions.loginopencartstep.i_have_entered_a_valid_username_and_password()
+  Given I have entered invalid "invalid@email.com" and "invalidpassword"                                # stepdefinitions.loginopencartstep.i_have_entered_invalid_and(java.lang.String,java.lang.String)
+  When I click on the login button                   # stepdefinitions.loginopencartstep.i_click_on_the_login_button()
+  When I click on the login button                                                                      # stepdefinitions.loginopencartstep.i_click_on_the_login_button()
+  Then I should see an error message indicating "Warning: No match for E-mail Address and/or Password." # stepdefinitions.loginopencartstep.i_should_see_an_error_message_indicating(java.lang.String)
+      java.lang.AssertionError: expected [true] but found [[[ChromeDriver: chrome on windows (80d6f86d19f62a97373e35e4c8b2a403)] -> css selector: .alert-danger]]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1578)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:644)
+	at stepdefinitions.loginopencartstep.i_should_see_an_error_message_indicating(loginopencartstep.java:70)
+	at ✽.I should see an error message indicating "Warning: No match for E-mail Address and/or Password."(file:///C:/Users/divya/eclipse-workspace-bkup/e-commerceplatform/src/test/resources/features/loginopencart.feature:20)
+
+]]></system-out>
+    <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Jun 24, 2024 11:53:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 126, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 126
+Jun 24, 2024 11:53:43 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 126, returning the closest version; found: 124; Please update to a Selenium version that supports CDP version 126
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario" classname="RunnerPackage.TestRunner" time="8.516"/>
+</testsuite>
